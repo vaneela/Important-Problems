@@ -3,6 +3,8 @@ Binary search in forest. (binary search-easy)
 Sort 0 1 2 (array,sorting-easy)
 Remove duplicates from string (string-medium)
 Spiral in tree (binary tree - medium)
-Alien dictionary problem
-Topological sort
-
+Alien dictionary problem(easy-on gfg)
+Topological sort(graph-medium)
+Merge overlapping intervals (array-medium)
+Minimum cost to cut the stick (dp-medium)
+Chocolate distribution problem(sliding window-easy)
