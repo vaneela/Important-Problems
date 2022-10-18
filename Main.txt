@@ -1,14 +1,53 @@
 Find sum of all nodes that are not present on boundary. (binary tree-medium)
+
 Binary search in forest. (binary search-easy)
+
 Sort 0 1 2 (array,sorting-easy)
+
 Remove duplicates from string (string-medium)
+
 Spiral in tree (binary tree - medium)
+
 Alien dictionary problem(easy-on gfg)
+
 Topological sort(graph-medium)
+
 Merge overlapping intervals (array-medium)
+
 Minimum cost to cut the stick (dp-medium)
+
 Chocolate distribution problem(sliding window-easy)
+
 Minimum Window Substring(String- lc_hard)
+
 https://leetcode.com/problems/minimum-window-substring/description/ (sliding window ,string- hard)
+
 Minimum sum two numbers gfg(array-easy)
+
 Number of leaf nodes in BT(Binary tree- easy)
+
+Next greatest valued node in a BST when a node is given
+
+Inorder traversal, Construct a Tree with given nodes
+
+Sort a nearly sorted Linked List
+
+Right view of binary tree "
+
+Add two numbers representing two linked list
+
+Find the top most k frequent elements in an array"
+
+Longest non repeating substring
+
+Search word in a 2d matrix"
+
+Minimum no of operation required to get distinct array (output should be the number of operations required)
+
+Reverse linked list in k groups
+
+rotten oranges
+
+find pair whose sum is target (binary search approach was expected)"
+
+Constructive algorithm and Inorder traversal(Stack)
